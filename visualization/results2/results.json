@@ -1,0 +1,290 @@
+[
+    {
+        "best_cut": "Conv_7",
+        "min_total_delay": "6598.575",
+        "bandwidth_MB": 0.001,
+        "edge_computility": 200,
+        "min_edge": "44.763",
+        "min_trans": "6553.600",
+        "min_cloud": "0.212"
+    },
+    {
+        "best_cut": "Conv_7",
+        "min_total_delay": "700.335",
+        "bandwidth_MB": 0.01,
+        "edge_computility": 200,
+        "min_edge": "44.763",
+        "min_trans": "655.360",
+        "min_cloud": "0.212"
+    },
+    {
+        "best_cut": "Conv_7",
+        "min_total_delay": "110.511",
+        "bandwidth_MB": 0.1,
+        "edge_computility": 200,
+        "min_edge": "44.763",
+        "min_trans": "65.536",
+        "min_cloud": "0.212"
+    },
+    {
+        "best_cut": "Conv_5",
+        "min_total_delay": "43.442",
+        "bandwidth_MB": 1,
+        "edge_computility": 200,
+        "min_edge": "30.040",
+        "min_trans": "13.107",
+        "min_cloud": "0.295"
+    },
+    {
+        "best_cut": "Conv_0",
+        "min_total_delay": "14.533",
+        "bandwidth_MB": 10,
+        "edge_computility": 200,
+        "min_edge": "3.604",
+        "min_trans": "10.486",
+        "min_cloud": "0.443"
+    },
+    {
+        "best_cut": "Conv_0",
+        "min_total_delay": "6.669",
+        "bandwidth_MB": 40,
+        "edge_computility": 200,
+        "min_edge": "3.604",
+        "min_trans": "2.621",
+        "min_cloud": "0.443"
+    },
+    {
+        "best_cut": "Conv_0",
+        "min_total_delay": "5.545",
+        "bandwidth_MB": 70,
+        "edge_computility": 200,
+        "min_edge": "3.604",
+        "min_trans": "1.498",
+        "min_cloud": "0.443"
+    },
+    {
+        "best_cut": "Conv_0",
+        "min_total_delay": "5.096",
+        "bandwidth_MB": 100,
+        "edge_computility": 200,
+        "min_edge": "3.604",
+        "min_trans": "1.049",
+        "min_cloud": "0.443"
+    },
+    {
+        "best_cut": "Conv_7",
+        "min_total_delay": "6560.699",
+        "bandwidth_MB": 0.001,
+        "edge_computility": 1300,
+        "min_edge": "6.887",
+        "min_trans": "6553.600",
+        "min_cloud": "0.212"
+    },
+    {
+        "best_cut": "Conv_7",
+        "min_total_delay": "662.459",
+        "bandwidth_MB": 0.01,
+        "edge_computility": 1300,
+        "min_edge": "6.887",
+        "min_trans": "655.360",
+        "min_cloud": "0.212"
+    },
+    {
+        "best_cut": "Conv_7",
+        "min_total_delay": "72.635",
+        "bandwidth_MB": 0.1,
+        "edge_computility": 1300,
+        "min_edge": "6.887",
+        "min_trans": "65.536",
+        "min_cloud": "0.212"
+    },
+    {
+        "best_cut": "Conv_7",
+        "min_total_delay": "13.653",
+        "bandwidth_MB": 1,
+        "edge_computility": 1300,
+        "min_edge": "6.887",
+        "min_trans": "6.554",
+        "min_cloud": "0.212"
+    },
+    {
+        "best_cut": "Conv_3",
+        "min_total_delay": "5.739",
+        "bandwidth_MB": 10,
+        "edge_computility": 1300,
+        "min_edge": "2.755",
+        "min_trans": "2.621",
+        "min_cloud": "0.363"
+    },
+    {
+        "best_cut": "Conv_0",
+        "min_total_delay": "3.619",
+        "bandwidth_MB": 40,
+        "edge_computility": 1300,
+        "min_edge": "0.555",
+        "min_trans": "2.621",
+        "min_cloud": "0.443"
+    },
+    {
+        "best_cut": "Conv_0",
+        "min_total_delay": "2.495",
+        "bandwidth_MB": 70,
+        "edge_computility": 1300,
+        "min_edge": "0.555",
+        "min_trans": "1.498",
+        "min_cloud": "0.443"
+    },
+    {
+        "best_cut": "Conv_0",
+        "min_total_delay": "2.046",
+        "bandwidth_MB": 100,
+        "edge_computility": 1300,
+        "min_edge": "0.555",
+        "min_trans": "1.049",
+        "min_cloud": "0.443"
+    },
+    {
+        "best_cut": "Conv_7",
+        "min_total_delay": "6555.304",
+        "bandwidth_MB": 0.001,
+        "edge_computility": 6000,
+        "min_edge": "1.492",
+        "min_trans": "6553.600",
+        "min_cloud": "0.212"
+    },
+    {
+        "best_cut": "Conv_7",
+        "min_total_delay": "657.064",
+        "bandwidth_MB": 0.01,
+        "edge_computility": 6000,
+        "min_edge": "1.492",
+        "min_trans": "655.360",
+        "min_cloud": "0.212"
+    },
+    {
+        "best_cut": "Conv_7",
+        "min_total_delay": "67.240",
+        "bandwidth_MB": 0.1,
+        "edge_computility": 6000,
+        "min_edge": "1.492",
+        "min_trans": "65.536",
+        "min_cloud": "0.212"
+    },
+    {
+        "best_cut": "Conv_7",
+        "min_total_delay": "8.258",
+        "bandwidth_MB": 1,
+        "edge_computility": 6000,
+        "min_edge": "1.492",
+        "min_trans": "6.554",
+        "min_cloud": "0.212"
+    },
+    {
+        "best_cut": "Conv_7",
+        "min_total_delay": "2.360",
+        "bandwidth_MB": 10,
+        "edge_computility": 6000,
+        "min_edge": "1.492",
+        "min_trans": "0.655",
+        "min_cloud": "0.212"
+    },
+    {
+        "best_cut": "Conv_3",
+        "min_total_delay": "1.615",
+        "bandwidth_MB": 40,
+        "edge_computility": 6000,
+        "min_edge": "0.597",
+        "min_trans": "0.655",
+        "min_cloud": "0.363"
+    },
+    {
+        "best_cut": "Conv_3",
+        "min_total_delay": "1.334",
+        "bandwidth_MB": 70,
+        "edge_computility": 6000,
+        "min_edge": "0.597",
+        "min_trans": "0.374",
+        "min_cloud": "0.363"
+    },
+    {
+        "best_cut": "Conv_3",
+        "min_total_delay": "1.222",
+        "bandwidth_MB": 100,
+        "edge_computility": 6000,
+        "min_edge": "0.597",
+        "min_trans": "0.262",
+        "min_cloud": "0.363"
+    },
+    {
+        "best_cut": "Conv_7",
+        "min_total_delay": "6554.626",
+        "bandwidth_MB": 0.001,
+        "edge_computility": 11000,
+        "min_edge": "0.814",
+        "min_trans": "6553.600",
+        "min_cloud": "0.212"
+    },
+    {
+        "best_cut": "Conv_7",
+        "min_total_delay": "656.386",
+        "bandwidth_MB": 0.01,
+        "edge_computility": 11000,
+        "min_edge": "0.814",
+        "min_trans": "655.360",
+        "min_cloud": "0.212"
+    },
+    {
+        "best_cut": "Conv_7",
+        "min_total_delay": "66.562",
+        "bandwidth_MB": 0.1,
+        "edge_computility": 11000,
+        "min_edge": "0.814",
+        "min_trans": "65.536",
+        "min_cloud": "0.212"
+    },
+    {
+        "best_cut": "Conv_7",
+        "min_total_delay": "7.580",
+        "bandwidth_MB": 1,
+        "edge_computility": 11000,
+        "min_edge": "0.814",
+        "min_trans": "6.554",
+        "min_cloud": "0.212"
+    },
+    {
+        "best_cut": "Conv_7",
+        "min_total_delay": "1.682",
+        "bandwidth_MB": 10,
+        "edge_computility": 11000,
+        "min_edge": "0.814",
+        "min_trans": "0.655",
+        "min_cloud": "0.212"
+    },
+    {
+        "best_cut": "Conv_5",
+        "min_total_delay": "1.169",
+        "bandwidth_MB": 40,
+        "edge_computility": 11000,
+        "min_edge": "0.546",
+        "min_trans": "0.328",
+        "min_cloud": "0.295"
+    },
+    {
+        "best_cut": "Conv_5",
+        "min_total_delay": "1.028",
+        "bandwidth_MB": 70,
+        "edge_computility": 11000,
+        "min_edge": "0.546",
+        "min_trans": "0.187",
+        "min_cloud": "0.295"
+    },
+    {
+        "best_cut": "Conv_3",
+        "min_total_delay": "0.951",
+        "bandwidth_MB": 100,
+        "edge_computility": 11000,
+        "min_edge": "0.326",
+        "min_trans": "0.262",
+        "min_cloud": "0.363"
+    }
+]

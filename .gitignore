@@ -1,0 +1,5 @@
+output.txt
+output[_a-zA-Z1-9]*.txt
+runs/
+checkpoints/
+
