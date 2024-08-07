@@ -1,0 +1,9 @@
+# 把修改的文件添加到git保留区
+git add <filename>
+git add .
+
+# commit
+git commit -m '这次提交的注释'
+
+# 修改的文件推送到git仓库
+git push
