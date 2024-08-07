@@ -7,6 +7,9 @@ import numpy as np
 from .soca import SOCA
 from .enhance_conv import invertedBlock, ConvFFN
 
+"""
+Author: zxy
+"""
 
 class SignFunction(Function):
     def __init__(self):
