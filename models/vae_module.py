@@ -1,3 +1,9 @@
+""" 
+ @Author: Zhang Xinyun 
+ * @Date: 2024-08-07 23:12:24 
+ * @Last Modified by:   Zhang Xinyun   
+ * @Last Modified time: 2024-08-07 23:12:24 
+ """
 import torch
 import torch.nn as nn
 from torch.autograd import Function
